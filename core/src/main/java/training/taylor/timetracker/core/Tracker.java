@@ -26,9 +26,7 @@ public class Tracker {
         return entries.size();
     }
 
-    public TimeEntry get(int index) 
-      
-
+    public TimeEntry get(int index) {
         return entries.get(index);
     }
 }
